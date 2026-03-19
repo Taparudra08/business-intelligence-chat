@@ -15,15 +15,3 @@ Upload data → Ask questions → Get charts using AI.
 - Gemini API (AI)
 - Plotly (Charts)
 
-## ▶️ Run
-
-### Backend
-pip install flask pandas requests plotly pdfplumber flask-cors
-python app.py
-
-### Frontend
-npm install
-npm start
-
-## 📌 Example Query
-"total sales by product"
